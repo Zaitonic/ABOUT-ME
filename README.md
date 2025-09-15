@@ -1,4 +1,5 @@
-# ABOUT-ME
+# PORTFOLIO
+ ABOUT-ME
 Hello! I'm Marklaurence G. Lozada, a student passionate about technology, programming, and problem-solving. Currently pursuing my education at Colegio de Montalban, I enjoy collaborating on projects, troubleshooting issues, and managing my time effectively to balance academics and personal growth. This portfolio showcases my skills, education, and contact information. Feel free to reach out for collaborations or opportunities!
 
  Education
